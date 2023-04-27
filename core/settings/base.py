@@ -27,7 +27,6 @@ THIRD_PARTY_APPS = [
 ]
 
 PROJECT_APPS = [
-    "api.feeds",
     "api.users",
 ]
 
