@@ -28,6 +28,7 @@ THIRD_PARTY_APPS = [
 
 PROJECT_APPS = [
     "api.users",
+    "api.doctors",
 ]
 
 INSTALLED_APPS = [
