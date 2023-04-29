@@ -3,7 +3,7 @@
     git clone https://github.com/Silicone-Team/DocTour-Api
 
 ##### 2) Создать venv и активироать если ее нет
-
+            
     Windows:
     python -m venv venv
     cd venv/Scripts/activate
